@@ -1,0 +1,11 @@
+#form_login{
+	margin: auto;
+	width: 500px;
+	text-align: center;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid black;
+}
+
+
